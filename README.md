@@ -1,5 +1,5 @@
 # hello-world
 Hi all
 
-today is 17-9-18, 20.00
+I created this on 17-9-18, 20.00
 Nice to know you!!
